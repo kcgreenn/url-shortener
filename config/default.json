@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://kcg123:kcg123@ds249717.mlab.com:49717/url-shortener",
+  "baseUrl": "http://localhost:5030"
+}
